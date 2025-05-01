@@ -1,5 +1,5 @@
 # Ml Project
-# airbnb Price Pridiction
+# Airbnb Price Pridiction
 # 1. Overview
  Airbnb provides a platform for property owners to rent out their spaces to travelers. Pricing a
  listing effectively is critical for maximizing revenue while staying competitive in the market.
